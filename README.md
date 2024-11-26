@@ -1,8 +1,10 @@
 # itemTextureJsonGenerator
 Used to quickly generate the item_texture.json file.
 ## How To Use
-1.put `itemTextureJsonGenerator` at where the `item_texture.json` is.
+1.put [`itemTextureJsonGenerator`](https://github.com/Luning39/itemTextureJsonGenerator/blob/main/itemTextureJsonGenerator.js) at where the `item_texture.json` is.
+
 2.Make sure you have Node.js installed.
+
 3.Open a terminal and run the following command:
 
 ```bash
