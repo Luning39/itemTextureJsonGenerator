@@ -1,7 +1,7 @@
 # itemTextureJsonGenerator
 Used to quickly generate the item_texture.json file.
 ## How To Use
-1.put [`itemTextureJsonGenerator`](./.github/workflows/itemTextureJsonGenerator.js) at where the `item_texture.json` is.
+1.put [`itemTextureJsonGenerator`](./itemTextureJsonGenerator.js) at where the `item_texture.json` is.
 
 2.Make sure you have Node.js installed.
 
