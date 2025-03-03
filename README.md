@@ -11,7 +11,7 @@ Used to quickly generate the item_texture.json file.
 node itemTextureJsonGenerator.js
 ```
 
-4.Follow the prompts to input the relative folder path and namespace value.
+4.Follow the prompts to input the relative folder path and prefix(option) value.
 
 Once the script completes, it will generate a item_texture.json file in the current folder.
 
